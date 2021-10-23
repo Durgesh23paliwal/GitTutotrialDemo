@@ -1,0 +1,5 @@
+error.log
+*.log
+dir/
+/dir/
+1.word.docx
